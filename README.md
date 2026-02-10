@@ -2,14 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=BB86FC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhiram+Bhat;Software+Developer;Building+logic-driven+digital+experiences;Turning+ideas+into+systems" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E026D,40:5B21B6,70:9333EA,100:000000&height=180&section=header&text=Abhiram%20Bhat&fontSize=36&fontColor=EDE9FE&animation=fadeIn" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Abhiram%20Bhat&fontSize=48&fontColor=E9D5FF&desc=Software%20Developer%20•%20Logic%20Driven%20Systems&descSize=20&descAlign=50&descAlignY=65&color=0:0F0C29,50:302B63,100:24243E" />
-</p>
 
 
+<p align="center">
+  <img src="https://github.com/divergentbeats/Leetcodeprogress/blob/main/banner.gif" width="100%" />
+</p>
 
 
 

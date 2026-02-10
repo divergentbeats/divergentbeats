@@ -2,7 +2,11 @@
 
 ### Designing logic-driven digital experiences.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divergentbeats" alt="divergentbeats" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=divergentbeats&theme=tokyonight&no-frame=true&margin-w=10" alt="divergentbeats" />
+  </a>
+</p>
 
 - 🌱 I'm currently learning ** I’m currently learning Web development, backend systems and cloud fundamentals.**
 

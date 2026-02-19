@@ -5,9 +5,9 @@ public:
 
         for(int i=0;i<operations.size();i++)
         {
-            if(operations[i]=="X++" || operations[i]=="++X")
+            if(operations[i][1]== '+')
             count++;
-            else if(operations[i]=="X--" || operations[i]=="--X")
+            else
             count--;
         }
         return count;

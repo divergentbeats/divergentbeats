@@ -8,7 +8,7 @@ public:
             for(int j=0;j<nums2.size();j++)
             {
                 if(nums1[i]==nums2[j])
-                {
+            {
                 if(result.size()!=0)
                 {
                     for(int k=0;k<result.size();k++)
@@ -20,14 +20,15 @@ public:
                         }
                     } 
                 }
-                    if(flag!=1)
-                    {
-                        result.push_back(nums1[i]);
-                        break;
-                    }
+            if(flag!=1)
+            {
+                result.push_back(nums1[i]);
+                break;
             }
-            flag=0;
+            }
+            
         }
+        flag=0;
     }
         return result;
     }

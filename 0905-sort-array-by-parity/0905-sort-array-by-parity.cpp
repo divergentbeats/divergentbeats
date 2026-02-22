@@ -20,14 +20,7 @@ public:
                 }
                 else if(nums[left]%2!=0 && nums[right]%2!=0)
                 right--;
-                if(left==right && nums[left]==0)
-                {
-                    temp=nums[0];
-                    nums[0]=nums[left];
-                    nums[left]=temp;
-                }
-                
-
+            
             }
         
         }

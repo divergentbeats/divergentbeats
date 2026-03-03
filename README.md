@@ -57,4 +57,13 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/divergentbeats/divergentbeats/tree/main/0058-length-of-last-word/) | Easy |
+| [0409-longest-palindrome](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0409-longest-palindrome/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0409-longest-palindrome/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->

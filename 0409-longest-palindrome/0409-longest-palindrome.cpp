@@ -8,15 +8,15 @@ public:
         {
             mp[s[i]]++;
         }
-        for(int i=0;i<mp.size();i++)
+        for(auto &p : mp)
         {
-            
-            if(mp[i]%2==0)
-            count=count+mp[i];
+           int freq=p.second;
+            if(freq %2==0)
+            count=count+freq;
             else
             {
                 flag=1;
-                count=count+(mp[i]-1);
+                count=count+(freq-1);
             }
         }
         if(flag==1)

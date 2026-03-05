@@ -60,9 +60,14 @@ Right now, I’m focused on:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/divergentbeats/divergentbeats/tree/main/0020-valid-parentheses/) | Easy |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/divergentbeats/divergentbeats/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

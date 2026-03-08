@@ -16,8 +16,12 @@ public:
                 return true;
 
                 l = left; r = right - 1;
-                while(l < r && s[l] == s[r]) { l++; r--; }
-                if(l >= r) return true;
+                while(l < r && s[l] == s[r]) 
+                { 
+                    l++,r--; 
+                }
+                if(l >= r) 
+                return true;
                 else
                 return false;
             }

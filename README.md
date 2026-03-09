@@ -56,6 +56,7 @@ Right now, I’m focused on:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 ## String
@@ -81,13 +82,23 @@ Right now, I’m focused on:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->

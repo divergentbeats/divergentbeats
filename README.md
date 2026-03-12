@@ -56,6 +56,7 @@ Right now, I’m focused on:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
@@ -103,6 +104,7 @@ Right now, I’m focused on:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/divergentbeats/divergentbeats/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -114,4 +116,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->

@@ -21,7 +21,7 @@ public:
             }
         }
         ans.push_back(freq);
-        mp[freq]=0;
+        mp.erase(freq);
         max=0;
         }
         return ans;  

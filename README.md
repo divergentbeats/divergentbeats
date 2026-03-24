@@ -56,6 +56,7 @@ Right now, I’m focused on:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/divergentbeats/divergentbeats/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/divergentbeats/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/divergentbeats/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -119,6 +120,7 @@ Right now, I’m focused on:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/divergentbeats/divergentbeats/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/divergentbeats/divergentbeats/tree/main/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/divergentbeats/divergentbeats/tree/main/0049-group-anagrams/) | Medium |

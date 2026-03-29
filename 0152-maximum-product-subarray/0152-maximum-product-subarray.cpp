@@ -9,7 +9,7 @@ public:
         {
             int x=nums[i];
             int tempmax=max(x, max(x*curmin,x*curmax));
-            int tempmin=min(x, max(x*curmin,x*curmax));
+            int tempmin=min(x, min(x*curmin,x*curmax));
             curmax=tempmax;
             curmin=tempmin;
             if(curmax>maxproduct)

@@ -59,6 +59,7 @@ Right now, I’m focused on:
 | [0001-two-sum](https://github.com/divergentbeats/divergentbeats/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/divergentbeats/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/divergentbeats/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -83,6 +84,7 @@ Right now, I’m focused on:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 ## Stack
@@ -100,6 +102,7 @@ Right now, I’m focused on:
 | [0015-3sum](https://github.com/divergentbeats/divergentbeats/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/divergentbeats/divergentbeats/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
@@ -139,6 +142,7 @@ Right now, I’m focused on:
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/divergentbeats/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/divergentbeats/divergentbeats/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/divergentbeats/divergentbeats/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/divergentbeats/divergentbeats/tree/main/0283-move-zeroes/) | Easy |
@@ -173,6 +177,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)

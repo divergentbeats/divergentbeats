@@ -9,7 +9,7 @@ public:
                 swap(nums[i],nums[k]);
                 i++,k++;
             }
-            else if(nums[k]==2 && nums[j]!=2)
+            else if(nums[k]==2)
             {
                 swap(nums[k],nums[j]);
                 j--;

@@ -139,6 +139,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/divergentbeats/divergentbeats/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/divergentbeats/divergentbeats/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/divergentbeats/divergentbeats/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/divergentbeats/divergentbeats/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -173,6 +174,7 @@ Right now, I’m focused on:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divergentbeats/divergentbeats/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -193,6 +195,7 @@ Right now, I’m focused on:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divergentbeats/divergentbeats/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |

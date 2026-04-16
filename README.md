@@ -177,6 +177,7 @@ Right now, I’m focused on:
 | [0004-median-of-two-sorted-arrays](https://github.com/divergentbeats/divergentbeats/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/divergentbeats/divergentbeats/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/divergentbeats/divergentbeats/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
@@ -251,6 +252,7 @@ Right now, I’m focused on:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/divergentbeats/divergentbeats/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/divergentbeats/divergentbeats/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 ## Monotonic Stack

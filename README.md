@@ -162,6 +162,7 @@ Right now, I’m focused on:
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/divergentbeats/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/divergentbeats/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/divergentbeats/divergentbeats/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -217,6 +218,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/divergentbeats/divergentbeats/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/divergentbeats/divergentbeats/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/divergentbeats/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -259,4 +261,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divergentbeats/divergentbeats/tree/main/0042-trapping-rain-water/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/divergentbeats/divergentbeats/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->

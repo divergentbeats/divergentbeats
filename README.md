@@ -136,6 +136,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/divergentbeats/divergentbeats/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0045-jump-game-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ Right now, I’m focused on:
 | [0033-search-in-rotated-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/divergentbeats/divergentbeats/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/divergentbeats/divergentbeats/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/divergentbeats/divergentbeats/tree/main/0054-spiral-matrix/) | Medium |
@@ -234,6 +236,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divergentbeats/divergentbeats/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |

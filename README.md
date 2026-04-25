@@ -174,6 +174,7 @@ Right now, I’m focused on:
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/divergentbeats/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/divergentbeats/divergentbeats/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0704-binary-search](https://github.com/divergentbeats/divergentbeats/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/divergentbeats/divergentbeats/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/divergentbeats/divergentbeats/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -232,6 +233,7 @@ Right now, I’m focused on:
 | [0238-product-of-array-except-self](https://github.com/divergentbeats/divergentbeats/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/divergentbeats/divergentbeats/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/divergentbeats/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/divergentbeats/divergentbeats/tree/main/0724-find-pivot-index/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

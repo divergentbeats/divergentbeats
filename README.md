@@ -29,7 +29,7 @@ Right now, I’m focused on:
 
 **Reach me:** `abhirambhat2210@gmail.com`  
 **Resume & experience:** [View here](https://drive.google.com/drive/u/1/folders/1pcheHB4Y3eDwVpFkKRpINIXJ79g6YiVh)  
-**Projects:** Portfolio coming soon — replacing the placeholder 
+**Projects:** [View here](https://abhiram-portfolio-sand.vercel.app/)
 
 ---
 

@@ -8,8 +8,8 @@ public:
             mp[nums[i]]++;
             if(mp[nums[i]]>count)
             {
-                count=mp[nums[i]];
-                max=nums[i];
+                count=mp[nums[i]];  //To keep a count
+                max=nums[i];        //For max count
             }
         }
           return max;

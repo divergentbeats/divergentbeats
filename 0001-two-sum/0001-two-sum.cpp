@@ -6,7 +6,7 @@ public:
         unordered_map<int,int> mp;
         for(int i=0;i<n;i++)
         {
-            comp=target-nums[i];
+            comp=target-nums[i];               //if it not exists
             if(mp.find(comp)!=mp.end())
             {
                 ans[0]=mp[comp];

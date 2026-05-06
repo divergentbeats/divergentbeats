@@ -1,20 +1,49 @@
 class Solution {
 public:
     int maxSubarraySumCircular(vector<int>& nums) {
-        int maxsum=nums[0], current=nums[0],minsum=nums[0],totalsum=nums[0],mincurrent=nums[0];
-        for(int i=1;i<nums.size();i++)
+
+        // Kadane for maximum subarray
+        int currentMax = nums[0];
+        int maxSum = nums[0];
+
+        // Kadane for minimum subarray
+        int currentMin = nums[0];
+        int minSum = nums[0];
+
+        // Total sum of array
+        int totalSum = nums[0];
+
+        for(int i = 1; i < nums.size(); i++)
         {
-            totalsum+=nums[i];
-            current=max(nums[i],current+nums[i]);
-            mincurrent=min(nums[i],mincurrent+nums[i]);
-            minsum=min(minsum,mincurrent);
-            maxsum=max(maxsum,current);
-            if(i==nums.size()-1 && maxsum>0)
-            {
-                maxsum=max(maxsum,totalsum-minsum);
-            }
+            totalSum += nums[i];
+
+            // Normal Kadane:
+            // Either start fresh from nums[i]
+            // OR extend previous subarray
+            currentMax = max(nums[i], currentMax + nums[i]);
+
+            // Update best maximum subarray
+            maxSum = max(maxSum, currentMax);
+
+            // Minimum subarray version of Kadane
+            currentMin = min(nums[i], currentMin + nums[i]);
+
+            // Update best minimum subarray
+            minSum = min(minSum, currentMin);
         }
-        return maxsum;
-        
+
+        // Important edge case:
+        // If all numbers are negative,
+        // totalSum - minSum becomes 0 (wrong answer)
+        if(maxSum < 0)
+            return maxSum;
+
+        // Circular sum:
+        // total sum - minimum subarray
+        int circularSum = totalSum - minSum;
+
+        // Return best of:
+        // normal subarray OR circular subarray
+        return max(maxSum, circularSum);
     }
 };

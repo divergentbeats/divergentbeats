@@ -1,22 +1,14 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int slow = nums[0];
-        int fast = nums[0];
-
-        // Phase 1: detect cycle
-        do {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
-        } while(slow != fast);
-
-        // Phase 2: find cycle start
-        slow = nums[0];
-        while(slow != fast) {
-            slow = nums[slow];
-            fast = nums[fast];
+        unordered_map<int,int> mp;
+        int dup=0;
+        for(int i=0;i<nums.size();i++)
+        {
+            if(mp.find(nums[i])!=mp.end())
+            return nums[i];
+        mp[nums[i]]++;
         }
-
-        return slow;
+        return 0;
     }
 };

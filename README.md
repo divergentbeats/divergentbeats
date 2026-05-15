@@ -182,6 +182,7 @@ Right now, I’m focused on:
 | [0566-reshape-the-matrix](https://github.com/divergentbeats/divergentbeats/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0704-binary-search](https://github.com/divergentbeats/divergentbeats/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/divergentbeats/divergentbeats/tree/main/0724-find-pivot-index/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/divergentbeats/divergentbeats/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/divergentbeats/divergentbeats/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -199,6 +200,7 @@ Right now, I’m focused on:
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/divergentbeats/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/divergentbeats/divergentbeats/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/divergentbeats/divergentbeats/tree/main/0875-koko-eating-bananas/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

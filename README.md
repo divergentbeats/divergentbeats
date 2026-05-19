@@ -62,6 +62,7 @@ Right now, I’m focused on:
 | [0073-set-matrix-zeroes](https://github.com/divergentbeats/divergentbeats/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/divergentbeats/divergentbeats/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/divergentbeats/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
@@ -82,6 +83,7 @@ Right now, I’m focused on:
 | [0058-length-of-last-word](https://github.com/divergentbeats/divergentbeats/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/divergentbeats/divergentbeats/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/divergentbeats/divergentbeats/tree/main/0076-minimum-window-substring/) | Hard |
+| [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |
@@ -166,6 +168,7 @@ Right now, I’m focused on:
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/divergentbeats/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/divergentbeats/divergentbeats/tree/main/0162-find-peak-element/) | Medium |
@@ -257,6 +260,7 @@ Right now, I’m focused on:
 | [0045-jump-game-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/divergentbeats/divergentbeats/tree/main/0072-edit-distance/) | Medium |
+| [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/divergentbeats/divergentbeats/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |
@@ -311,4 +315,12 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0912-sort-an-array/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->

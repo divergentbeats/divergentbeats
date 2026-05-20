@@ -6,33 +6,30 @@ public:
         return false;
         for(int i=0;i<s.size();i++)
         {
-            if(s[i]==')')
+            if(s[i] == ')')
             {
-                if(!p.empty() && p.top()=='(')
+                if(!p.empty() && p.top() == '(')
                 p.pop();
-                else
+                else 
                 p.push(s[i]);
             }
-            else if(s[i]=='}')
+            else if(s[i] == '}')
             {
-                if(!p.empty() && p.top()=='{')
+                if(!p.empty() && p.top() == '{')
                 p.pop();
-                else
+                else 
                 p.push(s[i]);
-
             }
-            else if(s[i]==']')
+            else if(s[i] == ']')
             {
-                if(!p.empty() && p.top()=='[')
+                if(!p.empty() && p.top() == '[')
                 p.pop();
-                else
+                else 
                 p.push(s[i]);
             }
             else
             p.push(s[i]);
         }
-        if(p.empty())
-        return true;
-        return false;
+        return p.empty();
     }
 };

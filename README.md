@@ -73,6 +73,7 @@ Right now, I’m focused on:
 | [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/divergentbeats/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0767-reorganize-string](https://github.com/divergentbeats/divergentbeats/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Right now, I’m focused on:
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0767-reorganize-string](https://github.com/divergentbeats/divergentbeats/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/divergentbeats/divergentbeats/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/divergentbeats/divergentbeats/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -98,6 +100,7 @@ Right now, I’m focused on:
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
+| [0767-reorganize-string](https://github.com/divergentbeats/divergentbeats/tree/main/0767-reorganize-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ Right now, I’m focused on:
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
+| [0767-reorganize-string](https://github.com/divergentbeats/divergentbeats/tree/main/0767-reorganize-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/divergentbeats/divergentbeats/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -149,6 +153,7 @@ Right now, I’m focused on:
 | [0011-container-with-most-water](https://github.com/divergentbeats/divergentbeats/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0045-jump-game-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0767-reorganize-string](https://github.com/divergentbeats/divergentbeats/tree/main/0767-reorganize-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +240,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/divergentbeats/divergentbeats/tree/main/0767-reorganize-string/) | Medium |
 | [0912-sort-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |

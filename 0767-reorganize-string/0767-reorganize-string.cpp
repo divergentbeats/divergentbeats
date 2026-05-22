@@ -1,44 +1,44 @@
 class Solution {
 public:
     string reorganizeString(string s) {
+        unordered_map<char,int> mp;
+        priority_queue<pair<int,char>> pq;
 
-        unordered_map<char, int> mp;
-
-        for(char ch:s)
+        for(char ch: s)
         mp[ch]++;
 
-        priority_queue<pair<int, char>> pq;
-
-        for(auto it:mp)
-        pq.push({it.second, it.first});
+        for(auto it: mp)
+        pq.push({it.second,it.first});
 
         int prevfreq = 0;
-        char prevc = '#';
-
         int freq = 0;
-        char ch;
+        char prevchar, letter;
         string ans = "";
 
         while(!pq.empty())
         {
-            auto top = pq.top();
-            pq.pop();
+           auto top = pq.top();
+           pq.pop();
 
-            freq = top.first;
-            ch = top.second;
+           freq = top.first;
+           letter = top.second;
 
-            ans+=ch;
-            freq--;
+           ans+=letter;
+           freq--;
 
-            if(prevfreq > 0)
-            pq.push({prevfreq, prevc});
+           if(prevfreq > 0)
+           pq.push({prevfreq, prevchar});
 
-            prevfreq = freq;
-            prevc = ch;
+           prevfreq = freq;
+           prevchar = letter;
+
         }
+
         if(ans.length()!=s.length())
         return "";
 
-        return ans;  
+
+        return ans;
+        
     }
 };

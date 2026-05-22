@@ -2,55 +2,43 @@ class Solution {
 public:
     string reorganizeString(string s) {
 
-        unordered_map<char,int> mp;
+        unordered_map<char, int> mp;
 
-        // Count frequencies
-        for(char ch : s)
-            mp[ch]++;
+        for(char ch:s)
+        mp[ch]++;
 
-        // Max heap -> {frequency, character}
-        priority_queue<pair<int,char>> pq;
+        priority_queue<pair<int, char>> pq;
 
-        for(auto it : mp)
-        {
-            pq.push({it.second, it.first});
-        }
+        for(auto it:mp)
+        pq.push({it.second, it.first});
 
+        int prevfreq = 0;
+        char prevc = '#';
+
+        int freq = 0;
+        char ch;
         string ans = "";
-
-        // Previous character info
-        int prevFreq = 0;
-        char prevChar = '#';
 
         while(!pq.empty())
         {
             auto top = pq.top();
             pq.pop();
 
-            int freq = top.first;
-            char ch = top.second;
+            freq = top.first;
+            ch = top.second;
 
-            // Add current character
-            ans += ch;
-
-            // Reduce frequency
+            ans+=ch;
             freq--;
 
-            // Push previous character back if still remaining
-            if(prevFreq > 0)
-            {
-                pq.push({prevFreq, prevChar});
-            }
+            if(prevfreq > 0)
+            pq.push({prevfreq, prevc});
 
-            // Store current as previous
-            prevFreq = freq;
-            prevChar = ch;
+            prevfreq = freq;
+            prevc = ch;
         }
+        if(ans.length()!=s.length())
+        return "";
 
-        // If impossible
-        if(ans.length() != s.length())
-            return "";
-
-        return ans;
+        return ans;  
     }
 };

@@ -1,30 +1,24 @@
 class Solution {
 public:
     int longestCommonSubsequence(string text1, string text2) {
-
         int n = text1.length();
         int m = text2.length();
 
-        // dp[i][j] = LCS length till text1[0..i-1] and text2[0..j-1]
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+        vector<vector<int>> dp(n+1, vector<int>(m+1,0));
 
-        for(int i = 1; i <= n; i++)
+        for(int i=1;i<=n;i++)
         {
-            for(int j = 1; j <= m; j++)
+            for(int j=1;j<=m;j++)
             {
-                // Characters match
-                if(text1[i - 1] == text2[j - 1])
-                {
-                    dp[i][j] = 1 + dp[i - 1][j - 1];
-                }
-                // Characters don't match
+                if(text1[i-1] == text2[j-1])
+                dp[i][j] = 1 + dp[i-1][j-1];
+
                 else
-                {
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
-                }
+                dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
             }
         }
 
         return dp[n][m];
+        
     }
 };

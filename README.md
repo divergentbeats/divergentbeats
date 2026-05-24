@@ -78,6 +78,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divergentbeats/divergentbeats/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/divergentbeats/divergentbeats/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/divergentbeats/divergentbeats/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/divergentbeats/tree/main/0049-group-anagrams/) | Medium |
@@ -160,6 +161,7 @@ Right now, I’m focused on:
 | [0001-two-sum](https://github.com/divergentbeats/divergentbeats/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/divergentbeats/divergentbeats/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/divergentbeats/divergentbeats/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/divergentbeats/divergentbeats/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/divergentbeats/divergentbeats/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -324,6 +326,7 @@ Right now, I’m focused on:
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/divergentbeats/divergentbeats/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |

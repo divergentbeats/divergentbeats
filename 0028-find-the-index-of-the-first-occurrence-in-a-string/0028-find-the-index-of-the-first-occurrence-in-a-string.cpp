@@ -1,18 +1,17 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        for(int i=0;i<haystack.size();i++)
+        int n = haystack.length();
+        int m = needle.length();
+        if(m>n)
+        return -1;
+
+        for(int i=0;i<=n-m;i++)
         {
-            for(int j=0;j<needle.size();j++)
-            {
-                if(haystack[i+j]!=needle[j])
-                break;
-                else
-                if(j==needle.size()-1)
-                return i;
-            }
-        }   
-       return -1; 
+            string ch = haystack.substr(i, m);
+            if(ch==needle)
+            return i;
+        }
+        return -1;   
     }
 };
-auto init = atexit([](){ofstream("display_runtime.txt") << "0";});

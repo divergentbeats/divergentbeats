@@ -58,6 +58,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/divergentbeats/divergentbeats/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divergentbeats/divergentbeats/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/divergentbeats/divergentbeats/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/divergentbeats/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/divergentbeats/divergentbeats/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/divergentbeats/divergentbeats/tree/main/0076-minimum-window-substring/) | Hard |
@@ -78,6 +79,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divergentbeats/divergentbeats/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/divergentbeats/divergentbeats/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/divergentbeats/divergentbeats/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/divergentbeats/divergentbeats/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -300,6 +302,7 @@ Right now, I’m focused on:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/divergentbeats/divergentbeats/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/divergentbeats/divergentbeats/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/divergentbeats/divergentbeats/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |

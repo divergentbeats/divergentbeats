@@ -11,22 +11,15 @@ public:
         mp['C'] = 100;
         mp['D'] = 500;
         mp['M'] = 1000;
-
         int ans = 0;
 
-        for(int i = 0; i < s.length(); i++)
+        for(int i=0;i<s.length();i++)
         {
-            // If smaller value comes before larger value
-            if(i + 1 < s.length() && mp[s[i]] < mp[s[i + 1]])
-            {
-                ans -= mp[s[i]];
-            }
+            if( i+1< s.length() && mp[s[i]] < mp[s[i+1]])
+            ans-=mp[s[i]];
             else
-            {
-                ans += mp[s[i]];
-            }
+            ans+=mp[s[i]];
         }
-
         return ans;
     }
 };

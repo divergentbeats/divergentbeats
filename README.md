@@ -109,6 +109,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/divergentbeats/divergentbeats/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/divergentbeats/divergentbeats/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/divergentbeats/divergentbeats/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ Right now, I’m focused on:
 | [0054-spiral-matrix](https://github.com/divergentbeats/divergentbeats/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/divergentbeats/divergentbeats/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/divergentbeats/divergentbeats/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/divergentbeats/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
@@ -310,6 +312,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/divergentbeats/divergentbeats/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/divergentbeats/divergentbeats/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

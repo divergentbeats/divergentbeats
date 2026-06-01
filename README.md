@@ -70,6 +70,7 @@ Right now, I’m focused on:
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -90,6 +91,7 @@ Right now, I’m focused on:
 | [0076-minimum-window-substring](https://github.com/divergentbeats/divergentbeats/tree/main/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -104,6 +106,7 @@ Right now, I’m focused on:
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0767-reorganize-string](https://github.com/divergentbeats/divergentbeats/tree/main/0767-reorganize-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -302,6 +305,7 @@ Right now, I’m focused on:
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |

@@ -2,8 +2,8 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         unordered_map<char,int> mp;
-        for(int i=0;i<s.length();i++)
-        mp[s[i]]++;
+        for(char ch:s)
+        mp[ch]++;
 
         for(int i=0;i<s.length();i++)
         {
@@ -11,5 +11,6 @@ public:
             return i;
         }
         return -1;
+        
     }
 };

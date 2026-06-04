@@ -66,6 +66,7 @@ Right now, I’m focused on:
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -90,6 +91,7 @@ Right now, I’m focused on:
 | [0072-edit-distance](https://github.com/divergentbeats/divergentbeats/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/divergentbeats/divergentbeats/tree/main/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
+| [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
@@ -129,6 +131,7 @@ Right now, I’m focused on:
 | [0088-merge-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |

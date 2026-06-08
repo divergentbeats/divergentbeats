@@ -6,15 +6,15 @@ public:
         string key;
         for(int i=0;i<strs.size();i++)
         {
-            key=strs[i];
+            key = strs[i];
             sort(key.begin(),key.end());
             mp[key].push_back(strs[i]);
         }
-        for(auto &p:mp)
-        ans.push_back(p.second);
+        for(auto i:mp)
+        ans.push_back(i.second);
 
         return ans;
-        
+
         
     }
 };

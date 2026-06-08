@@ -97,6 +97,7 @@ Right now, I’m focused on:
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/divergentbeats/divergentbeats/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/divergentbeats/divergentbeats/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/divergentbeats/divergentbeats/tree/main/0796-rotate-string/) | Easy |
@@ -156,6 +157,7 @@ Right now, I’m focused on:
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/divergentbeats/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/divergentbeats/divergentbeats/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/divergentbeats/divergentbeats/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0977-squares-of-a-sorted-array/) | Easy |

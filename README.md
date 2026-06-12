@@ -353,4 +353,12 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

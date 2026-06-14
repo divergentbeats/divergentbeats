@@ -159,6 +159,7 @@ Right now, I’m focused on:
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/divergentbeats/divergentbeats/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/divergentbeats/divergentbeats/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -357,6 +358,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

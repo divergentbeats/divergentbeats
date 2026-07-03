@@ -370,6 +370,7 @@ Right now, I’m focused on:
 | [0160-intersection-of-two-linked-lists](https://github.com/divergentbeats/divergentbeats/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

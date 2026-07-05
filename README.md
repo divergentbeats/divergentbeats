@@ -153,6 +153,7 @@ Right now, I’m focused on:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/divergentbeats/divergentbeats/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/divergentbeats/divergentbeats/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/divergentbeats/divergentbeats/tree/main/0141-linked-list-cycle/) | Easy |
@@ -364,6 +365,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divergentbeats/divergentbeats/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/divergentbeats/divergentbeats/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/divergentbeats/divergentbeats/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/divergentbeats/divergentbeats/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0142-linked-list-cycle-ii/) | Medium |

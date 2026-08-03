@@ -123,6 +123,7 @@ Right now, I’m focused on:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/divergentbeats/divergentbeats/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/divergentbeats/divergentbeats/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/divergentbeats/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -199,6 +200,7 @@ Right now, I’m focused on:
 | [0084-largest-rectangle-in-histogram](https://github.com/divergentbeats/divergentbeats/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/divergentbeats/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/divergentbeats/divergentbeats/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |

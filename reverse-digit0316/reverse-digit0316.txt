@@ -1,0 +1,26 @@
+class Solution {
+  public:
+    int reverseDigits(int n) {
+        int s = n, count = 0;
+        while(s>0)
+        {
+            count++;
+            s/=10;
+        }
+        
+        s = n;
+        int newnum = 0;
+        while(s>0)
+        {
+            count--;
+            int x = s%10;
+            int newn = pow(10, count);
+            newnum+=(x*newn);
+            s/=10;
+            
+            
+        }
+        return newnum;
+        
+    }
+};

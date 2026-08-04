@@ -1,0 +1,13 @@
+int firstDigit(int n) {
+    int s = n, count = 0;
+    while(s>0)
+    {
+        count++;
+        s/=10;
+    }
+    int newn = pow(10,count-1);
+    n = n / newn;
+    return n;
+    
+    
+}

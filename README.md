@@ -342,6 +342,7 @@ Right now, I’m focused on:
 | [0202-happy-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
+| [0507-perfect-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0507-perfect-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divergentbeats/divergentbeats/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Monotonic Stack

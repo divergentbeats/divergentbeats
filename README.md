@@ -331,6 +331,7 @@ Right now, I’m focused on:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/divergentbeats/divergentbeats/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/divergentbeats/divergentbeats/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/divergentbeats/divergentbeats/tree/main/0189-rotate-array/) | Medium |

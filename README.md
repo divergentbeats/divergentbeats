@@ -338,6 +338,7 @@ Right now, I’m focused on:
 | [0007-reverse-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/divergentbeats/divergentbeats/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/divergentbeats/divergentbeats/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/divergentbeats/divergentbeats/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/divergentbeats/divergentbeats/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0202-happy-number/) | Easy |
@@ -393,6 +394,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divergentbeats/divergentbeats/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/divergentbeats/divergentbeats/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0206-reverse-linked-list/) | Easy |
 ## Number Theory

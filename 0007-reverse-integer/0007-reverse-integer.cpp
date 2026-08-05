@@ -26,9 +26,11 @@ public:
         if(x<0)
         rev = rev*(-1);
 
-        if(rev > 2147483647)
+        long long newn = pow(2,31);
+
+        if(rev > newn-1)
         return 0;
-        if(rev < -2147483648)
+        if(rev < -newn)
         return 0;
 
         return rev;

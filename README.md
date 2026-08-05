@@ -68,6 +68,7 @@ Right now, I’m focused on:
 | [0142-linked-list-cycle-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/divergentbeats/divergentbeats/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
@@ -162,6 +163,7 @@ Right now, I’m focused on:
 | [0142-linked-list-cycle-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/divergentbeats/divergentbeats/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/divergentbeats/divergentbeats/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/divergentbeats/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/divergentbeats/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -337,6 +339,7 @@ Right now, I’m focused on:
 | [0013-roman-to-integer](https://github.com/divergentbeats/divergentbeats/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/divergentbeats/divergentbeats/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/divergentbeats/divergentbeats/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divergentbeats/divergentbeats/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -394,4 +397,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0258-add-digits/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->

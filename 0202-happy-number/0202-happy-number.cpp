@@ -10,8 +10,7 @@ public:
        while(s>0)
        {
         int x = s % 10;
-        int newn = pow(x,2);
-        sum+=newn;
+        sum+=(x*x);
         s/=10;
        }
         

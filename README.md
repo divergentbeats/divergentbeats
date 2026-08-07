@@ -416,5 +416,6 @@ Right now, I’m focused on:
 | [0620-not-boring-movies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0620-not-boring-movies/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1683-invalid-tweets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1683-invalid-tweets/) | Easy |
+| [1729-find-followers-count](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->

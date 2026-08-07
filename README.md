@@ -405,4 +405,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0202-happy-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->

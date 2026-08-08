@@ -421,6 +421,7 @@ Right now, I’m focused on:
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/divergentbeats/divergentbeats/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1683-invalid-tweets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1757-recyclable-and-low-fat-products/) | Easy |

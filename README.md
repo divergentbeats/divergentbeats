@@ -420,6 +420,7 @@ Right now, I’m focused on:
 | [1045-customers-who-bought-all-products](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/divergentbeats/divergentbeats/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/divergentbeats/divergentbeats/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1683-invalid-tweets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1683-invalid-tweets/) | Easy |

@@ -431,4 +431,5 @@ Right now, I’m focused on:
 | [1683-invalid-tweets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->

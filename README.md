@@ -418,6 +418,7 @@ Right now, I’m focused on:
 | [0584-find-customer-referee](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0595-big-countries/) | Easy |
+| [0601-human-traffic-of-stadium](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0607-sales-person](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0607-sales-person/) | Easy |
 | [0620-not-boring-movies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1045-customers-who-bought-all-products/) | Medium |

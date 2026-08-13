@@ -423,6 +423,7 @@ Right now, I’m focused on:
 | [1280-students-and-examinations](https://github.com/divergentbeats/divergentbeats/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/divergentbeats/divergentbeats/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1683-invalid-tweets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1757-recyclable-and-low-fat-products/) | Easy |

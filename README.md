@@ -425,6 +425,7 @@ Right now, I’m focused on:
 | [1068-product-sales-analysis-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1280-students-and-examinations](https://github.com/divergentbeats/divergentbeats/tree/main/1280-students-and-examinations/) | Easy |
+| [1321-restaurant-growth](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1321-restaurant-growth/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/divergentbeats/divergentbeats/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1527-patients-with-a-condition/) | Easy |

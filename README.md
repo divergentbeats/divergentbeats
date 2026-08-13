@@ -424,6 +424,7 @@ Right now, I’m focused on:
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1193-monthly-transactions-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/divergentbeats/divergentbeats/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1321-restaurant-growth/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |

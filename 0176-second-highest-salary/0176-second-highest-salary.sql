@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select( select distinct salary from ( select id, salary, dense_rank() over(order by salary desc) as rowNum from Employee) as cte where rowNum = 2) as SecondHighestSalary;

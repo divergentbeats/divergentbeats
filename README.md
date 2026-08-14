@@ -408,6 +408,7 @@ Right now, I’m focused on:
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0176-second-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |

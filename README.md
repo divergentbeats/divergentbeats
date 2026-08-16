@@ -128,6 +128,7 @@ Right now, I’m focused on:
 | [0191-number-of-1-bits](https://github.com/divergentbeats/divergentbeats/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/divergentbeats/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/divergentbeats/divergentbeats/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -303,6 +304,7 @@ Right now, I’m focused on:
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/divergentbeats/divergentbeats/tree/main/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/divergentbeats/divergentbeats/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/0392-is-subsequence/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/divergentbeats/divergentbeats/tree/main/1143-longest-common-subsequence/) | Medium |

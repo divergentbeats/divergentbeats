@@ -126,6 +126,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0136-single-number](https://github.com/divergentbeats/divergentbeats/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/divergentbeats/divergentbeats/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/divergentbeats/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/divergentbeats/divergentbeats/tree/main/0338-counting-bits/) | Easy |
@@ -344,6 +345,7 @@ Right now, I’m focused on:
 | [0069-sqrtx](https://github.com/divergentbeats/divergentbeats/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/divergentbeats/divergentbeats/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0507-perfect-number/) | Easy |
@@ -399,6 +401,7 @@ Right now, I’m focused on:
 | [0050-powx-n](https://github.com/divergentbeats/divergentbeats/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/divergentbeats/divergentbeats/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0231-power-of-two/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

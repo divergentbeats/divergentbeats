@@ -94,6 +94,7 @@ Right now, I’m focused on:
 | [0058-length-of-last-word](https://github.com/divergentbeats/divergentbeats/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/divergentbeats/divergentbeats/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/divergentbeats/divergentbeats/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/divergentbeats/divergentbeats/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
@@ -161,6 +162,7 @@ Right now, I’m focused on:
 | [0061-rotate-list](https://github.com/divergentbeats/divergentbeats/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/divergentbeats/divergentbeats/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/divergentbeats/divergentbeats/tree/main/0160-intersection-of-two-linked-lists/) | Easy |

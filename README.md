@@ -59,12 +59,14 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +83,13 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
+| [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->

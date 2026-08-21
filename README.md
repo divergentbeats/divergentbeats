@@ -60,6 +60,7 @@ Right now, I’m focused on:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
@@ -70,6 +71,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
 ## Sliding Window
@@ -110,6 +112,7 @@ Right now, I’m focused on:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
@@ -140,4 +143,16 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0020-valid-parentheses/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->

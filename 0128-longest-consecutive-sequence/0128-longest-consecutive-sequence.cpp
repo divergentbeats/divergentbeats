@@ -7,7 +7,7 @@ public:
             st.insert(nums[i]);
         }
         int maxlen=0, count=1;
-        for(auto i:st)
+        for(int i:st)
         {
             if(!st.count(i-1))
             {

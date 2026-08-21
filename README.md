@@ -58,6 +58,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0027-remove-element/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
@@ -71,6 +72,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |

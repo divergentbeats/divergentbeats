@@ -68,6 +68,7 @@ Right now, I’m focused on:
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
@@ -93,6 +94,7 @@ Right now, I’m focused on:
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->

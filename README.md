@@ -100,6 +100,7 @@ Right now, I’m focused on:
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@ Right now, I’m focused on:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |

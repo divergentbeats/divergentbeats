@@ -179,6 +179,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/divergentbeats/divergentbeats/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/divergentbeats/divergentbeats/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

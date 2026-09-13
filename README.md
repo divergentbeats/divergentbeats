@@ -226,10 +226,12 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/divergentbeats/divergentbeats/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,8 +240,13 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/divergentbeats/divergentbeats/tree/main/0118-pascals-triangle/) | Easy |
+| [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

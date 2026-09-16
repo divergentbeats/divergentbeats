@@ -88,6 +88,7 @@ Right now, I’m focused on:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/divergentbeats/divergentbeats/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
 ## Sliding Window
@@ -119,6 +120,7 @@ Right now, I’m focused on:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/divergentbeats/divergentbeats/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting

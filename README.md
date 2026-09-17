@@ -79,6 +79,7 @@ Right now, I’m focused on:
 | [0643-maximum-average-subarray-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0724-find-pivot-index/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -182,6 +183,7 @@ Right now, I’m focused on:
 | [0020-valid-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +256,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

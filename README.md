@@ -100,6 +100,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0217-contains-duplicate/) | Easy |
@@ -115,6 +116,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/divergentbeats/divergentbeats/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -228,6 +230,7 @@ Right now, I’m focused on:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/divergentbeats/divergentbeats/tree/main/0050-powx-n/) | Medium |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/divergentbeats/divergentbeats/tree/main/0371-sum-of-two-integers/) | Medium |

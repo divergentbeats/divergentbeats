@@ -1,25 +1,18 @@
 class Solution {
 public:
     vector<int> finalPrices(vector<int>& prices) {
-        vector<int> answers;
-        int flag=0;
         for(int i=0;i<prices.size();i++)
         {
-            for(int j=i;j<prices.size();j++)
+            for(int j=i+1;j<prices.size();j++)
             {
-                if(j>i && prices[j]<=prices[i])
+                if(prices[j]<=prices[i])
                 {
-                    prices[i]=prices[i]-prices[j];
-                    flag=1;
-                    answers.push_back(prices[i]);
-                    break;
+                prices[i]-=prices[j];
+                break;
                 }
             }
-            if(flag!=1)
-            answers.push_back(prices[i]);
-            flag=0;
         }
-        return answers;
+        return prices;
         
     }
 };

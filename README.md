@@ -75,6 +75,7 @@ Right now, I’m focused on:
 | [0442-find-all-duplicates-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0704-binary-search/) | Easy |
@@ -183,6 +184,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/divergentbeats/divergentbeats/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -258,6 +260,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/divergentbeats/divergentbeats/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Memoization

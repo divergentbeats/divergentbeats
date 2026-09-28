@@ -1,0 +1,14 @@
+class Solution {
+  public:
+    int findFloor(vector<int>& arr, int x) {
+        int right=arr.size()-1;
+        while(right>=0)
+        {
+            if(arr[right]<=x)
+            return right;
+            right--;
+        }
+        return -1;
+        
+    }
+};

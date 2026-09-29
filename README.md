@@ -108,6 +108,7 @@ Right now, I’m focused on:
 | [0013-roman-to-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0205-isomorphic-strings](https://github.com/divergentbeats/divergentbeats/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
@@ -127,6 +128,7 @@ Right now, I’m focused on:
 | [0020-valid-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
+| [0205-isomorphic-strings](https://github.com/divergentbeats/divergentbeats/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/divergentbeats/divergentbeats/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |

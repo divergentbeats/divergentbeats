@@ -1,0 +1,17 @@
+class Solution {
+  public:
+    void reverseInGroups(vector<int> &arr, int k) {
+        int n=arr.size();
+        int i=0;
+        if(k<=n)
+        {
+        while(i<=n)
+        {
+            reverse(arr.begin()+i,arr.begin()+min(i+k,n));
+            i+=k;
+        }
+        }
+        else
+        reverse(arr.begin(),arr.end());
+    }
+};

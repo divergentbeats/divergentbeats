@@ -247,6 +247,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/divergentbeats/divergentbeats/tree/main/0050-powx-n/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/divergentbeats/divergentbeats/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/divergentbeats/divergentbeats/tree/main/0371-sum-of-two-integers/) | Medium |

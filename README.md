@@ -63,6 +63,7 @@ Right now, I’m focused on:
 | [0033-search-in-rotated-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/divergentbeats/divergentbeats/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -285,5 +286,6 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->

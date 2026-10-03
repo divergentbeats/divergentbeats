@@ -3,7 +3,7 @@ public:
 
     void bt(string &current, int open, int close, vector<string> &ans,int n)
     {
-        if(current.size()==(2*n))
+        if(current.length()==(2*n))
         {
             ans.push_back(current);
             return;

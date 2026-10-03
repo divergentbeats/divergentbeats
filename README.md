@@ -130,6 +130,7 @@ Right now, I’m focused on:
 | [0013-roman-to-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/divergentbeats/divergentbeats/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/divergentbeats/divergentbeats/tree/main/0205-isomorphic-strings/) | Easy |
@@ -204,6 +205,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0022-generate-parentheses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ Right now, I’m focused on:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/divergentbeats/divergentbeats/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Stack
@@ -287,6 +290,7 @@ Right now, I’m focused on:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0078-subsets/) | Medium |

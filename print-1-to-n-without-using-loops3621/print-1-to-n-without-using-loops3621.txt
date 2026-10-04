@@ -1,0 +1,11 @@
+class Solution {
+  public:
+  int i=1;
+    void printTillN(int n) {
+        cout<<i<<" ";
+        i++;
+        if(i>n)
+        return;
+        printTillN(n);
+    }
+};

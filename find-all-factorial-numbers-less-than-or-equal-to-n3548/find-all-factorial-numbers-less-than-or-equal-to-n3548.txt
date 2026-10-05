@@ -1,0 +1,14 @@
+class Solution {
+  public:
+    int i=2;
+    long long factorial=1;
+    vector<long long> ans;
+    vector<long long> factorialNumbers(long long n) {
+        if(factorial>n)
+        return ans;
+        ans.push_back(factorial);
+        factorial*=i;
+        i++;
+        return factorialNumbers(n);
+    }
+};

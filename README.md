@@ -65,6 +65,7 @@ Right now, I’m focused on:
 | [0039-combination-sum](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -179,6 +180,7 @@ Right now, I’m focused on:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -279,6 +281,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/divergentbeats/divergentbeats/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Stack

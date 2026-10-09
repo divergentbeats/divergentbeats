@@ -225,6 +225,7 @@ Right now, I’m focused on:
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/divergentbeats/divergentbeats/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divergentbeats/divergentbeats/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +271,7 @@ Right now, I’m focused on:
 | [0371-sum-of-two-integers](https://github.com/divergentbeats/divergentbeats/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/divergentbeats/divergentbeats/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divergentbeats/divergentbeats/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

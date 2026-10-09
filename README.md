@@ -92,6 +92,7 @@ Right now, I’m focused on:
 | [0739-daily-temperatures](https://github.com/divergentbeats/divergentbeats/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/divergentbeats/divergentbeats/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,4 +310,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/divergentbeats/divergentbeats/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->

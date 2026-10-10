@@ -66,6 +66,7 @@ Right now, I’m focused on:
 | [0040-combination-sum-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/divergentbeats/divergentbeats/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -281,6 +282,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/divergentbeats/divergentbeats/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/divergentbeats/divergentbeats/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/divergentbeats/divergentbeats/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |

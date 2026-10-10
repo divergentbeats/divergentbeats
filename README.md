@@ -69,6 +69,7 @@ Right now, I’m focused on:
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/divergentbeats/divergentbeats/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divergentbeats/divergentbeats/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -106,6 +107,7 @@ Right now, I’m focused on:
 | [0027-remove-element](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/divergentbeats/divergentbeats/tree/main/0344-reverse-string/) | Easy |
@@ -158,6 +160,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/divergentbeats/divergentbeats/tree/main/0242-valid-anagram/) | Easy |

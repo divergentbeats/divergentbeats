@@ -95,6 +95,7 @@ Right now, I’m focused on:
 | [0739-daily-temperatures](https://github.com/divergentbeats/divergentbeats/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/divergentbeats/divergentbeats/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/divergentbeats/divergentbeats/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/divergentbeats/divergentbeats/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/divergentbeats/divergentbeats/tree/main/1929-concatenation-of-array/) | Easy |
@@ -134,6 +135,7 @@ Right now, I’m focused on:
 | [0442-find-all-duplicates-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/divergentbeats/divergentbeats/tree/main/1512-number-of-good-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ Right now, I’m focused on:
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/divergentbeats/divergentbeats/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +284,7 @@ Right now, I’m focused on:
 | [0412-fizz-buzz](https://github.com/divergentbeats/divergentbeats/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divergentbeats/divergentbeats/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/divergentbeats/divergentbeats/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

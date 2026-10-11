@@ -101,6 +101,7 @@ Right now, I’m focused on:
 | [1672-richest-customer-wealth](https://github.com/divergentbeats/divergentbeats/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/divergentbeats/divergentbeats/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/divergentbeats/divergentbeats/tree/main/1929-concatenation-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/divergentbeats/divergentbeats/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +265,7 @@ Right now, I’m focused on:
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/divergentbeats/divergentbeats/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

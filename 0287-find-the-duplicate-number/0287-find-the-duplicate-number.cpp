@@ -1,16 +1,24 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        unordered_set<int> st;
+        int slow=nums[0];
+        int fast=nums[0];
 
-        for(int i=0;i<nums.size();i++)
+        do
         {
-            if(st.find(nums[i])!=st.end())
-            return nums[i];
-            st.insert(nums[i]);
+            slow=nums[slow];
+            fast=nums[nums[fast]];
+        }while(slow!=fast);
+
+        slow=nums[0];
+
+        while(slow!=fast)
+        {
+            slow=nums[slow];
+            fast=nums[fast];
         }
 
-        return -1;
+        return slow;
         
     }
 };

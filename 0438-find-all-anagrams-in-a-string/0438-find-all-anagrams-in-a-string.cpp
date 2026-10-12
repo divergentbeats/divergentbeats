@@ -2,33 +2,34 @@ class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
         vector<int> ans;
-        
-        if(p.size() > s.size()) return ans;
+        if(p.size()>s.size()) return ans;
 
-        vector<int> pCount(26, 0), sCount(26, 0);
+        vector<int> windowfreq(26,0);
+        vector<int> pfreq(26,0);
+        for(int i=0;i<p.size();i++)
+        {
+            windowfreq[s[i]-'a']++;
+            pfreq[p[i]-'a']++;
 
-        // build frequency of p
-        for(char c : p) {
-            pCount[c - 'a']++;
+
         }
 
-        int k = p.size();
+        for(int i=0;i<=s.size()-p.size();i++)
+        {
+            if(windowfreq==pfreq)
+            ans.push_back(i);
 
-        for(int i = 0; i < s.size(); i++) {
-            // add current character to window
-            sCount[s[i] - 'a']++;
-
-            // remove character if window size > k
-            if(i >= k) {
-                sCount[s[i - k] - 'a']--;
+            if(i+p.size()<s.size())
+            {
+                windowfreq[s[i]-'a']--;
+                windowfreq[s[i+p.size()]-'a']++;
             }
 
-            // compare window with p
-            if(sCount == pCount) {
-                ans.push_back(i - k + 1);
-            }
         }
 
         return ans;
+
+        
+        
     }
 };

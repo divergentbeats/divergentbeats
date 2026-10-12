@@ -103,6 +103,7 @@ Right now, I’m focused on:
 | [1920-build-array-from-permutation](https://github.com/divergentbeats/divergentbeats/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/divergentbeats/divergentbeats/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/divergentbeats/divergentbeats/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Right now, I’m focused on:
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/divergentbeats/divergentbeats/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@ Right now, I’m focused on:
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/divergentbeats/divergentbeats/tree/main/0412-fizz-buzz/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@ Right now, I’m focused on:
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

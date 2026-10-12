@@ -75,6 +75,7 @@ Right now, I’m focused on:
 | [0118-pascals-triangle](https://github.com/divergentbeats/divergentbeats/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divergentbeats/divergentbeats/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/divergentbeats/divergentbeats/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |
@@ -240,6 +241,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0078-subsets](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |

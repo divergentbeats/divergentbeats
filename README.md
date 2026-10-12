@@ -121,6 +121,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ Right now, I’m focused on:
 | [0383-ransom-note](https://github.com/divergentbeats/divergentbeats/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -161,6 +163,7 @@ Right now, I’m focused on:
 | [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/divergentbeats/divergentbeats/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/divergentbeats/divergentbeats/tree/main/0412-fizz-buzz/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Sorting

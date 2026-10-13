@@ -315,6 +315,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/divergentbeats/divergentbeats/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
@@ -373,4 +374,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

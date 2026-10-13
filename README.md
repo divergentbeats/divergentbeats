@@ -119,6 +119,7 @@ Right now, I’m focused on:
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,4 +381,5 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->

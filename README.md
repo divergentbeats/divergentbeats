@@ -84,6 +84,7 @@ Right now, I’m focused on:
 | [0268-missing-number](https://github.com/divergentbeats/divergentbeats/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divergentbeats/divergentbeats/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -334,6 +335,7 @@ Right now, I’m focused on:
 | [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/divergentbeats/divergentbeats/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divergentbeats/divergentbeats/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0322-coin-change](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -403,6 +405,7 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0322-coin-change/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,4 +413,12 @@ Right now, I’m focused on:
 | [0104-maximum-depth-of-binary-tree](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->

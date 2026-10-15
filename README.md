@@ -171,6 +171,7 @@ Right now, I’m focused on:
 | [0402-remove-k-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/divergentbeats/divergentbeats/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0520-detect-capital](https://github.com/divergentbeats/divergentbeats/tree/main/0520-detect-capital/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Sorting

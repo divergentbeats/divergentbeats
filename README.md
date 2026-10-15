@@ -115,6 +115,7 @@ Right now, I’m focused on:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/divergentbeats/divergentbeats/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/divergentbeats/divergentbeats/tree/main/0088-merge-sorted-array/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/divergentbeats/divergentbeats/tree/main/0344-reverse-string/) | Easy |
@@ -243,6 +244,7 @@ Right now, I’m focused on:
 | [0094-binary-tree-inorder-traversal](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0402-remove-k-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -323,6 +325,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0050-powx-n](https://github.com/divergentbeats/divergentbeats/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/divergentbeats/divergentbeats/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/divergentbeats/divergentbeats/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
@@ -387,6 +390,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Tree

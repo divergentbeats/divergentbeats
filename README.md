@@ -97,6 +97,7 @@ Right now, I’m focused on:
 | [0704-binary-search](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/divergentbeats/divergentbeats/tree/main/0739-daily-temperatures/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/divergentbeats/divergentbeats/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -213,6 +214,7 @@ Right now, I’m focused on:
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/divergentbeats/divergentbeats/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,4 +431,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0322-coin-change/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/divergentbeats/divergentbeats/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->

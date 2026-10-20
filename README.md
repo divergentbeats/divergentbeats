@@ -249,6 +249,7 @@ Right now, I’m focused on:
 | [0094-binary-tree-inorder-traversal](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/divergentbeats/divergentbeats/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/divergentbeats/divergentbeats/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0402-remove-k-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/divergentbeats/divergentbeats/tree/main/0496-next-greater-element-i/) | Easy |
@@ -391,6 +392,7 @@ Right now, I’m focused on:
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/divergentbeats/divergentbeats/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/divergentbeats/divergentbeats/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -438,4 +440,8 @@ Right now, I’m focused on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divergentbeats/divergentbeats/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/divergentbeats/divergentbeats/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->

@@ -64,6 +64,7 @@ Right now, I’m focused on:
 | [0035-search-insert-position](https://github.com/divergentbeats/divergentbeats/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/divergentbeats/divergentbeats/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/divergentbeats/divergentbeats/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/divergentbeats/divergentbeats/tree/main/0066-plus-one/) | Easy |
@@ -138,6 +139,7 @@ Right now, I’m focused on:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/divergentbeats/divergentbeats/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/divergentbeats/divergentbeats/tree/main/0169-majority-element/) | Easy |

@@ -1,0 +1,17 @@
+class Solution {
+  public:
+    vector<int> getMinMax(vector<int> &arr) {
+        vector<int> ans(2);
+        ans[0]=INT_MAX;
+        ans[1]=0;
+        for(int i=0;i<arr.size();i++)
+        {
+            ans[0]=min(ans[0],arr[i]);
+            ans[1]=max(ans[1],arr[i]);
+            
+        }
+        return ans;
+        
+        
+    }
+};

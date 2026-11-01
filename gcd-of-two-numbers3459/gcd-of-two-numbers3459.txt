@@ -1,0 +1,14 @@
+class Solution {
+  public:
+    int gcd(int a, int b) {
+        int r=0;
+        while(b!=0)
+        {
+            r=b;
+            b=a%b;
+            a=r;
+        }
+        return r;
+        
+    }
+};

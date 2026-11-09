@@ -1,0 +1,8 @@
+class Solution {
+  public:
+    void insertAtIndex(vector<int> &arr, int index, int val) {
+        arr.push_back(val);
+        for(int i=arr.size()-1;i>index;i--)
+        swap(arr[i-1],arr[i]);
+    }
+};

@@ -1,0 +1,21 @@
+class Solution {
+  public:
+    int multiply(vector<int> &arr) {
+        int n=arr.size();
+        int sum1=0, sum2=0, prod=1;
+        int i=0, j=n-1;
+        while(i<n/2)
+        {
+            sum1+=arr[i];
+            i++;
+        }
+        while(j>=n/2)
+        {
+            sum2+=arr[j];
+            j--;
+        }
+        
+        prod=sum1*sum2;
+        return prod;
+    }
+};

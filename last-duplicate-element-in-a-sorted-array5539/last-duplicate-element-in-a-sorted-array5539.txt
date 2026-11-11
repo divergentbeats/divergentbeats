@@ -1,0 +1,19 @@
+class Solution {
+  public:
+    vector<int> dupLastIndex(vector<int>& arr) {
+        // code here
+        vector<int> p(2);
+        p[0]=-1,p[1]=-1;
+        for(int i=arr.size()-1;i>0;i--)
+        {
+            if(arr[i-1]==arr[i])
+            {
+                p[0]=i;
+                p[1]=arr[i];
+                break;
+            }
+        }
+        
+        return p;
+    }
+};

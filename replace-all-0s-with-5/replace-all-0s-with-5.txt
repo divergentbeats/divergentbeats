@@ -1,0 +1,23 @@
+class Solution {
+  public:
+    int convertFive(int n) {
+        int x=0;
+        int ans=0;
+        if(n==0)
+        return 5;
+        while(n>0)
+        {
+            int pown=pow(10,x);
+            int num = n%10;
+            if(num==0)
+            num=5;
+            ans+=num*pown;
+            x++;
+            n/=10;
+        }
+        
+        return ans;
+       
+        
+    }
+};

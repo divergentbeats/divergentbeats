@@ -1,0 +1,27 @@
+class Solution {
+  public:
+    string countryAtWar(vector<int>& arr1, vector<int>& arr2) {
+        int Awins=0, Bwins=0;
+        for(int i=0;i<arr1.size();i++)
+        {
+            if(arr1[i]>arr2[i])
+            Awins++;
+            else if(arr1[i]<arr2[i])
+            Bwins++;
+            
+        }
+        
+        if(Awins>Bwins)
+        {
+            return "A";
+        }
+        else if(Bwins>Awins)
+        {
+            return "B";
+        }
+        else if(Awins==Bwins)
+        return "DRAW";
+        // code here
+        
+    }
+};

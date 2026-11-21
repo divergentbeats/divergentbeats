@@ -1,0 +1,34 @@
+class Solution {
+  public:
+    vector<int> twoSum(vector<int>& arr, int target) {
+        // code here
+        int i=0, j=arr.size()-1;
+        vector<int> ans;
+        int sum=0;
+        while(i<j)
+        {
+            sum=0;
+            sum+=arr[i];
+            sum+=arr[j];
+            if(sum==target)
+            {
+                ans.push_back(i+1);
+                ans.push_back(j+1);
+                return ans;
+            }
+            else if(sum>target)
+            {
+                sum-=arr[j];
+                j--;
+            }
+            else if(sum<target)
+            {
+                sum-=arr[i];
+                i++;
+            }
+            
+            
+        }
+        return {-1,-1};
+    }
+};

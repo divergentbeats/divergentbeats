@@ -124,6 +124,7 @@ Right now, I’m focused on:
 | [0287-find-the-duplicate-number](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/divergentbeats/divergentbeats/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0443-string-compression](https://github.com/divergentbeats/divergentbeats/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -178,6 +179,7 @@ Right now, I’m focused on:
 | [0402-remove-k-digits](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/divergentbeats/divergentbeats/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/divergentbeats/divergentbeats/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/divergentbeats/divergentbeats/tree/main/0520-detect-capital/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divergentbeats/Leetcodeprogress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divergentbeats/Leetcodeprogress/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
